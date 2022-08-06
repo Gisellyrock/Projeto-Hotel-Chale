@@ -6,4 +6,4 @@ Website responsivo criado em HTML e CSS.
 
 ##
 
-<img width="1440" alt="Captura de Tela 2022-08-06 às 08 16 00" src="https://user-images.githubusercontent.com/104739434/183246554-7c468382-4fc1-4b20-af44-657dda843002.png">
+
